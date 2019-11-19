@@ -2,7 +2,7 @@
   "name": "digital-comic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kurtpetrek.github.io/digital-comic-idea",
+  "homepage": "https://DevAshleyD.github.io/ReactAnimation",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^16.0.0",
